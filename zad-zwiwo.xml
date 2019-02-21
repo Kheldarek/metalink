@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metalink>
+    <published>2019-02-13T00:41:38.436+01:00</published>
+    <file name="ant.xml">
+        <size>184</size>
+        <hash type="md5">FD59EB362842D43A4412B755E538B938</hash>
+        <url>http://zad-zwiwo.com/download/ant.xml</url>
+    </file>
+    <file name="encodings.xml">
+        <size>138</size>
+        <hash type="md5">2B73A41F305A1D00FED308299F057F8A</hash>
+        <url>http://zad-zwiwo.com/download/encodings.xml</url>
+    </file>
+    <file name="misc.xml">
+        <size>283</size>
+        <hash type="md5">69148AE5FC285718FAA8D75978C2C20A</hash>
+        <url>http://zad-zwiwo.com/download/misc.xml</url>
+    </file>
+    <file name="modules.xml">
+        <size>263</size>
+        <hash type="md5">A91F7D992EB6F23635ED3DCF1A1C1FED</hash>
+        <url>http://zad-zwiwo.com/download/modules.xml</url>
+    </file>
+    <file name="uiDesigner.xml">
+        <size>8915</size>
+        <hash type="md5">354FA3EF4CFFBE5249CAA826595A4F68</hash>
+        <url>http://zad-zwiwo.com/download/uiDesigner.xml</url>
+    </file>
+    <file name="workspace.xml">
+        <size>19654</size>
+        <hash type="md5">BC4387A3BF89889EEBD1B2F342A96757</hash>
+        <url>http://zad-zwiwo.com/download/workspace.xml</url>
+    </file>
+    <file name="MetalinkConstructor.class">
+        <size>5464</size>
+        <hash type="md5">C34430E8B87177349276559464192FAA</hash>
+        <url>http://zad-zwiwo.com/download/MetalinkConstructor.class</url>
+    </file>
+    <file name="FileInfoHash.class">
+        <size>430</size>
+        <hash type="md5">478C0637B6150737D989D54665DF986D</hash>
+        <url>http://zad-zwiwo.com/download/FileInfoHash.class</url>
+    </file>
+    <file name="MetalinkFileInfoDetails.class">
+        <size>509</size>
+        <hash type="md5">3B369CAF196F942DDFA1E9F186129067</hash>
+        <url>http://zad-zwiwo.com/download/MetalinkFileInfoDetails.class</url>
+    </file>
+    <file name="MetalinkFiles.class">
+        <size>670</size>
+        <hash type="md5">35273F2A06B0EE7A40382D68CA06C91E</hash>
+        <url>http://zad-zwiwo.com/download/MetalinkFiles.class</url>
+    </file>
+    <file name="build.xml">
+        <size>1089</size>
+        <hash type="md5">7379D99E20D1C0358D8DE58555651F91</hash>
+        <url>http://zad-zwiwo.com/download/build.xml</url>
+    </file>
+    <file name="apache-ant-1.8.2.jar">
+        <size>1933743</size>
+        <hash type="md5">9463F65940F928D650A95AEB057A4E0A</hash>
+        <url>http://zad-zwiwo.com/download/apache-ant-1.8.2.jar</url>
+    </file>
+    <file name="metalink.iml">
+        <size>1015</size>
+        <hash type="md5">7F52C5F8E64BAF11871545A98F302DC6</hash>
+        <url>http://zad-zwiwo.com/download/metalink.iml</url>
+    </file>
+    <file name="MetalinkConstructor.java">
+        <size>4268</size>
+        <hash type="md5">C6A7F673BE3B451A27262AF70A94E6A9</hash>
+        <url>http://zad-zwiwo.com/download/MetalinkConstructor.java</url>
+    </file>
+    <file name="FileInfoHash.java">
+        <size>340</size>
+        <hash type="md5">C77FD15566D04916284C25640CB2B64E</hash>
+        <url>http://zad-zwiwo.com/download/FileInfoHash.java</url>
+    </file>
+    <file name="MetalinkFileInfoDetails.java">
+        <size>374</size>
+        <hash type="md5">3C376B498B790FD8F507641A41CEF9BA</hash>
+        <url>http://zad-zwiwo.com/download/MetalinkFileInfoDetails.java</url>
+    </file>
+    <file name="MetalinkFiles.java">
+        <size>462</size>
+        <hash type="md5">58796152780C1B341F26775B55AA7418</hash>
+        <url>http://zad-zwiwo.com/download/MetalinkFiles.java</url>
+    </file>
+    <file name="zad-zwiwo.xml">
+        <size>3822</size>
+        <hash type="md5">1E93350E845DF4A8EE3AACFB6B89DA18</hash>
+        <url>http://zad-zwiwo.com/download/zad-zwiwo.xml</url>
+    </file>
+</metalink>

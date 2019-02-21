@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Metalink" basedir="." default="compile">
+
+    <property name="src.dir" value="src"/>
+    <property name="classes.dir" value="bin"/>
+    <property name="server.files.url" value="jakisfajnylink.com/"/>
+
+    <target name="clean" description="Delete all generated files">
+        <delete dir="${classes.dir}" failonerror="false"/>
+        <delete file="${ant.project.name}.jar"/>
+    </target>
+
+    <target name="compile" description="Compiles the Task">
+        <mkdir dir="${classes.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${classes.dir}">
+            <classpath>
+                <fileset dir="libs" includes="**/*.jar"/>
+            </classpath>
+        </javac>
+    </target>
+
+    <target name="metalink-execute" depends="compile">
+        <taskdef name="metalink" classpath="${classes.dir}" classname="put.ps.metalink.MetalinkConstructor"/>
+        <metalink url="http://zad-zwiwo.com/download/" file="zad-zwiwo.xml">
+            <fileset dir="."/>
+        </metalink>
+    </target>
+
+</project>
